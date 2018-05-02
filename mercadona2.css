@@ -1,0 +1,143 @@
+header > button {
+
+    border-radius: 20px !important;
+
+    background-color: #e13507 !important;
+
+}
+
+
+
+header {
+
+    margin: 30px;
+
+}
+
+
+
+nav {
+
+    background-color: #00754D;
+
+}
+
+
+
+nav a {
+
+    font-size: 1.2em;
+
+    font-weight: 300;
+
+    color: white;
+
+}
+
+
+
+nav a:hover { /* tipos de enlace: link, visited, hover y active */
+
+    color: yellow;
+
+}
+
+
+
+.titulo {
+
+    margin-top: 30px;
+
+    margin-bottom: 15px;
+
+}
+
+
+
+.titulo > h1 {
+
+    color: #00754D;
+
+    text-align: center;
+
+    font-weight: bold;
+
+}
+
+
+
+.card-group {
+
+    margin-left: 100px;
+
+    margin-right: 100px;
+
+    margin-top: 20px;
+
+    margin-bottom: 20px;
+
+}
+
+
+
+.card-title {
+
+    color: #005e3e;
+
+}
+
+
+
+.card-body {
+
+    text-align: center;
+
+}
+
+
+
+.card-body > button {
+
+    color: #005e3e;
+
+    font-weight: bold;
+
+    border-radius: 30px;
+
+    background-color: white;
+
+    border: 1px solid lightgray;
+
+}
+
+
+
+.card-body > button:hover {
+
+    background-color: lightgray;
+
+}
+
+
+
+#formulario button {
+
+    border-top-right-radius: 20px;
+
+    border-bottom-right-radius: 20px;
+
+    background-color: #00754d;
+
+    color: white;
+
+}
+
+
+
+#formulario input {
+
+    border-top-left-radius: 20px;
+
+    border-bottom-left-radius: 20px;
+
+}

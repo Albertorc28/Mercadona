@@ -1,0 +1,180 @@
+#imglogo{
+    margin-top:30px;
+    margin-left:-638px;
+}
+
+#compra{
+    margin-top:35px;
+    border-radius:20px !important;
+}
+header{
+    margin-top:20px;
+}
+
+nav {
+    color: white;
+    background-color: #00754D;
+    font-size: 1.2em;
+    font-weight: 300;
+    max-width: 1440px;
+    width: 100%;
+}
+
+.title{
+    color: #005e3e;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.btn-outline-secondary{
+    color: #005e3e;
+    border-radius:20px
+}
+
+#container{
+    text-align: center;
+}
+
+#span{
+    color: #005e3e;
+    font-weight: bold;
+}
+
+.date{
+    color:grey;
+}
+
+#ver{
+    text-align: center; 
+}
+
+#text{
+    color: #005e3e;
+    font-weight: bold;
+    font-size: 18px
+}
+
+.supermercadosTitulo{
+    font-size:18px;
+    text-align: center;
+}
+
+#columnas {
+    border: solid 0.5px grey;
+}
+
+#supermercadosApp {
+    text-align: center; 
+}
+ 
+h2{
+    font-size: 20px;
+}
+
+.busquedaInput {
+    border-bottom-left-radius: 2em;
+    border-top-left-radius: 2em;
+    display: table-cell;
+    padding: .7em 2em;
+    border-style: none;
+    box-shadow: -0.2em 0 1em 0 #aaa;
+    width: 280px;
+    vertical-align: middle;
+    height: 100%;
+}
+ 
+ .busquedaBoton {
+    border-bottom-right-radius: 2em;
+    border-top-right-radius: 2em;
+    background-color: #00754d;
+    color: #fff;
+    text-decoration: none;
+    padding: .7em 1.7em;
+    display: table-cell;
+    box-shadow: 0.2em 0 1em 0 #aaa;
+    vertical-align: middle;
+    height: 100%;
+    border: none;
+}
+ 
+button, html input[type="button"], input[type="reset"], input[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer;
+ }
+
+#ubicacion{
+    color: #005e3e;
+    text-decoration: underline;
+}
+
+h3{
+    color: #005e3e;
+    font-weight: bold;  
+}
+
+.consejos{
+    font-size:1.15em;
+}
+
+.col-xs-12-1{
+    background-color:#218050;
+}
+
+.col-xs-12-2{
+    background-color: #17633D;
+}
+
+#blanco{
+    color:white;  
+}
+
+.row{
+    margin-right:0px;
+    text-align: center; 
+}
+
+h3>i{
+    font-size:43px;
+}
+
+#oferta{
+    text-align: center; 
+    font-size: 1.15em;
+    color: #005e3e;
+}
+
+#centrate{
+    text-align: center; 
+}
+
+#mercadona{
+    text-align: center;
+}
+
+.footer{
+    background:#00754d;
+}
+
+#row-foot{
+    text-align: center;
+}
+#col-foot{
+    text-align: justify;
+   
+}
+#foot{
+    color: white;
+    font-size: 0.80em;
+}
+
+#foot2{
+    color: white;
+    font-size: 0.80em;
+}
+
+.btn-outline-secondary:hover, .btn-rounded-orange-border:hover {
+    background-color:#007540;    
+    color: #ffffff;
+    border-radius:20px
+}
